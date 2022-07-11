@@ -1,4 +1,4 @@
-I'm a software developer with a passion for React, Redux, Flask, and SQL. My main project right now is Spaggiari, an app for exchanging cryptocurrencies, that relies on a React.js frontend combined with a python and flask backend. On the side, I'm currently working on an NFT project based around a simple gaming platform.
+I'm a software developer with a passion for React, Redux, Flask, and SQL. My main project right now is Spaggiari, an app for exchanging cryptocurrencies, that relies on a React.js frontend combined with a python and flask backend.
 
 On a more personal note, I'm a trained musician, producer and engineer, and composer. I have released much of my own music on streaming platforms, and have performed as a session guitarist for different artists.
 
